@@ -22,13 +22,11 @@
 For this sprint challenge you will be building a web page from scratch for a space magazine called SpaceWalker.  
 
 * SpaceWalker has provided you a desktop design file that they would like their site to look similar to.  **They are not asking for pixel perfection!**
-
 * SpaceWalker has asked that you add your own features to it after the layout is complete.  SpaceWalker has provided all the images and content that you see in the design.  
-
 * This sprint challenge is broken into four distinct parts: Preprocessing, Layout, Utilities, and Components.  You will need to complete certain tasks before others can be started.
 
 ## Prerequisites
-* You must have LESS and Less Compiler Watcher installed
+* You must have LESS and less watch compiler installed to get this project running correctly.
 
 ## Task 1: Preprocessing
 * You will notice that there are several ```.less``` files in the LESS folder.  You will need to import the files into the index.less for this project to work correctly. The order in which they must be imported is:
