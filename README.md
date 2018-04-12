@@ -1,4 +1,4 @@
-# Assessing Your Web Tools and Frameworks Learning
+# Assessing Your Web Tools and UI Frameworks Learning
 
 * The objective of this challenge is test your knowledge on all of the topics surrounding web tools and frameworks you learned this week.
 * Answers to your written questions will be recorded in _Answers.md_
@@ -13,13 +13,13 @@
 ## Questions - Self Study - You can exercise your Google-Fu for this and any other _Sprint Challenge_ in the future. Remember to record your answers in _Answers.md_
 
 1. How would you teach the basic ideas behind preprocessing to a friend?  Please don't copy and paste an answer here, use your own thoughts.
-2. What is the npm command to globally install LESS?
+2. What is the yarn command to globally install LESS?
 3. What is the most useful mixin you have used this week?
 4. What are the names of the 5 breakpoints used in bootstrap?
 5. What is the utility class name that turns an element into a flexbox?
 
 ## Lets get started on the project
-For this sprint challenge you will be building a web page from scratch for a space magazine called SpaceWalker.  
+For this sprint challenge you will be building a web page from scratch for a space themed magazine called SpaceWalker.  
 
 * SpaceWalker has provided you a desktop design file that they would like their site to look similar to.  **They are not asking for pixel perfection!**
 * SpaceWalker has asked that you add your own features to it after the layout is complete.  SpaceWalker has provided all the images and content that you see in the design.  
